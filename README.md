@@ -13,3 +13,6 @@ You just have to follow the instructions for setting up the selfbot:
 - Select `y` in the updater to start Lunaris.
 
 Enjoy!
+
+![image](https://github.com/user-attachments/assets/4d7716aa-7390-4dc9-aa05-061712479355)
+
