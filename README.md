@@ -14,5 +14,10 @@ You just have to follow the instructions for setting up the selfbot:
 
 Enjoy!
 
+Old UI:
 ![image](https://github.com/user-attachments/assets/4d7716aa-7390-4dc9-aa05-061712479355)
+
+New UI:
+![image](https://github.com/user-attachments/assets/4d4e729c-38b4-49ad-8ee6-41391c36ec4b)
+
 
