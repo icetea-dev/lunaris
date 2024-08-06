@@ -18,6 +18,7 @@ Old UI:
 ![image](https://github.com/user-attachments/assets/4d7716aa-7390-4dc9-aa05-061712479355)
 
 New UI:
-![image](https://github.com/user-attachments/assets/4d4e729c-38b4-49ad-8ee6-41391c36ec4b)
+![image](https://github.com/user-attachments/assets/bf3ea596-8079-43ea-82b0-b6d3f23afbe1)
+
 
 
