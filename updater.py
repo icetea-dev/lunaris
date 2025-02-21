@@ -118,7 +118,7 @@ def start_lunaris():
             install_requirements()
             python_executable = os.path.join(lunaris_folder, 'Lunaris', 'Scripts', 'python.exe')
             main_script = os.path.join(lunaris_folder, 'main.py')
-            subprocess.run([python_executable, main_script], check=True)
+            subprocess.Popen([python_executable, main_script], creationflags=subprocess.CREATE_NEW_CONSOLE)
             print("Lunaris started.")
         elif start.lower() == 'n':
             sys.exit()
